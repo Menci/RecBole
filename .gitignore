@@ -1,3 +1,4 @@
+/saved_*
 .vscode/
 .idea/
 *.pyc
